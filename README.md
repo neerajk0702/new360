@@ -1,4 +1,4 @@
-# n360
+# news360
 
 A news Flutter project.
 
